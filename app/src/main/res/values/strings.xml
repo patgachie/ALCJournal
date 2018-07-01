@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC Journal</string>
+    <string name="greeting">Hi %1$s,</string>
+    <string name="main_activity_name">All Entries</string>
+    <string name="signin_activity_name">ALC Journal Sign In</string>
+    <string name="add_entry_activity_name">Add a New Entry</string>
+    <string name="view_entry_activity_name">View Journal Entry</string>
+    <string name="edit_entry_activity_name">Edit Entry</string>
+
+    <!-- Strings for AddEntryActivity -->
+    <string name="modify_entry_description">Enter your entry details</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+
+</resources>
